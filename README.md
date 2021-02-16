@@ -25,7 +25,7 @@ Project 기간: 2021년 2월 1일 → 2021년 2월 7일
 
 # Dataset
 
-![Sleep%20AI%20Challenge%2018330ae5178d438086cd72a1408050b8/Untitled.png](Sleep%20AI%20Challenge%2018330ae5178d438086cd72a1408050b8/Untitled.png)
+![Sleep%20AI%20Challenge%2018330ae5178d438086cd72a1408050b8/Untitled.png](image/Untitled.png)
 
 ```
 이미지에는 아래의 순서대로(상단부터 하단으로) 신호가 포함되어 있음 
@@ -63,7 +63,3 @@ $$Macro-F1 = \frac1N \sum_{k=1}^NF1-score_k$$
 ## 정성 평가
 
 개발 문서 ppt를 기반으로 한 발표 평가
-
-# Code
-
-[ssjx10/SleepAIChallenge](https://github.com/ssjx10/SleepAIChallenge)
