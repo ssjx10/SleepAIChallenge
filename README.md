@@ -1,12 +1,6 @@
 # Sleep AI Challenge
 
 Project 기간: 2021년 2월 1일 → 2021년 2월 7일
-상태: 완료
-이해관계자: 오영택 성균관대학교, 승완 정
-작성일시: 2021년 2월 13일 오후 11:19
-작성자: 승완 정
-최종 편집일시: 2021년 2월 16일 오후 1:34
-최종 편집자: 승완 정
 
 [MAIC](https://maic.or.kr/competitions/3/infomation)
 
@@ -50,7 +44,7 @@ Project 기간: 2021년 2월 1일 → 2021년 2월 7일
 - random drop으로 인한 성능 향상 확인
 - 추후 image size(3,100,480)를 작게하여 여러가지 setting(learning rate, wegiht decay, drop 개수, model)에 대해서 실험
 - 결과적으로 large input size일 때 성능이 좋았으나 시간이 부족하여 다른 모델(base : resnet18)에서 실험을 진행 못함
-- large inpurt size에서 efficientnet이나 resnet50으로 학습했을 때 성능이 향상되었을 것으로 고려됨
+- large inpurt size에서 efficientnet이나 resnet50으로 학습했을 때 성능이 향상되었을 것 예상
 
 # 평가 기준
 
